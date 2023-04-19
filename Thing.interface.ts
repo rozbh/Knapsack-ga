@@ -1,0 +1,1 @@
+export interface Things { item: string, weight: number }

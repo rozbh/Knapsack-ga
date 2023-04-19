@@ -1,0 +1,31 @@
+{
+  "name": "knapsack-ga",
+  "version": "1.0.0",
+  "description": "solving Knapsack problem using genetic algorithm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozi98/Knapsack-ga.git"
+  },
+  "keywords": [
+    "knapsack",
+    "genetic",
+    "algoritm",
+    "js"
+  ],
+  "author": "ruzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rozi98/Knapsack-ga/issues"
+  },
+  "homepage": "https://github.com/rozi98/Knapsack-ga#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
