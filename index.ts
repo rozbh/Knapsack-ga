@@ -1,6 +1,6 @@
-import { KnapsackGA } from "./knapsack-ga";
-import { generateThings } from "./thing-generator";
+import { KnapsackGA } from "./Class/knapsack-ga"
+import { generateThings } from "./Extra/thing-generator"
 
-const knapsackGA = new KnapsackGA(generateThings(20),20,50)
+const knapsackGA = new KnapsackGA(generateThings(30),100000,500,10)
 knapsackGA.start()
 
